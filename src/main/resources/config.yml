@@ -1,0 +1,21 @@
+#######################################################
+##                   Created By                      ##
+##                    Mithrillia                     ##
+#######################################################
+announcement:
+    enabled: true
+    random: false
+    prefix: '&a&lAusMine &8&l> &7'
+    interval: 300
+    check-for-updates: false
+    messages:
+     - 'You can earn ranks by purchasing perks at ausmine.net/shop! '
+     - 'Want to join our staff team? We are recruiting! Apply now at &aausmine.net/staff '
+     - 'Need help? Ask one of our friendly staff members! '
+     - 'Remember to follow the rules! We are a family friendly server. '
+     - 'Join a job to earn some cash! /jobs browse '
+     - '&7Trying to win a large amount of items in an auction? Clear space in your inventory
+     or you risk losing them! '
+     - 'If you see random Chinese text characters, enable the server resource pack! &a/spawn
+     &7and look directly to your side. '
+     - 'Gift other players your claim blocks by using &a/claim give&7!'

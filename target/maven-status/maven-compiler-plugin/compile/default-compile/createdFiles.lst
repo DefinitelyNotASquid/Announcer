@@ -1,0 +1,5 @@
+com\mith\Announcer\chatColorHelper.class
+com\mith\Announcer\announcerCommandExecutor.class
+com\mith\Announcer\announcerPermissions.class
+com\mith\Announcer\announcer.class
+com\mith\Announcer\announcerThread.class

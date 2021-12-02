@@ -1,8 +1,8 @@
 name: Announcer
 main: com.mith.Announcer.announcer
-version: 1.0.1
+version: 1.0.2
 description: Automatically Announce tips and news!
-api-version: 1.17
+api-version: 1.18
 authors:
  - 'Mithrillia'
 commands:

@@ -6,7 +6,7 @@
 
     <groupId>com.mith</groupId>
     <artifactId>Announcer</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>Announcer</name>
 
 
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.17-R0.1-SNAPSHOT</version>
+            <version>1.18-rc3-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
@@ -66,5 +66,4 @@
             </resource>
         </resources>
     </build>
-
 </project>
